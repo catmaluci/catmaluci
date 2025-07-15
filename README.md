@@ -33,8 +33,8 @@ My curiosity has always driven me to understand how things work "under the hood.
 
 ### Projects That Showcase My Potential: 🌟
 
-* **[Catalog]**: Transform your box organization with our digital solution. Easily generate QR codes through an intuitive interface, linking each box to its inventory for visual identification and optimized content control. Implemented with [Spring Boot and React]. [https://github.com/orgs/cat-a-log/dashboard] 🔗.
-* **[Travel4Real]**: [in Progress] Is a digital platform that connect travellers with local hosts to live real and unique experiencies, out of the classic tourism. [Spring Boot, React, Daysi UI]. [[https://github.com/orgs/FinalProject-F5/dashboard] 🔗.
+* **[Catalog]**: Transform your box organization with our digital solution. Easily generate QR codes through an intuitive interface, linking each box to its inventory for visual identification and optimized content control. Implemented with [Spring Boot and React]. [https://github.com/cat-a-log] 🔗.
+* **[Travel4Real]**: [in Progress] Is a digital platform that connect travellers with local hosts to live real and unique experiencies, out of the classic tourism. [Spring Boot, React, Daysi UI]. [[https://github.com/FinalProject-F5] 🔗.
 
 ---
 
