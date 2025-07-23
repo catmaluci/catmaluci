@@ -51,6 +51,6 @@ I'm actively seeking opportunities where I can apply my full-stack development s
 
 * **LinkedIn:** [www.linkedin.com/in/molaya] 💼
 * **Email:** [catmaluci@hotmail.com] 📧
-* **My Original Design Portfolio :** [https://mariuxy.com/mariu] 🖼️
+* **My Original Design Portfolio :** [https://mariuxy.com/] 🖼️
 
 Thanks for stopping by! I'm ready to build the future, one component at a time. 💡
