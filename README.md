@@ -1,4 +1,4 @@
-# 🎨 From Designer to Full-Stack Developer: My Code Journey 🚀
+# 🎨 From Designer to FrontEnd Developer: My Code Journey 🚀
 
 Welcome to my code lab! I'm [Mariu], an aspiring full-stack developer fresh out of an intensive bootcamp, bringing a **decade of experience in the captivating world of User Experience (UX) and User Interface (UI) design**. For years, my mission was to shape intuitive and visually appealing digital products.
 
